@@ -1,0 +1,1 @@
+# financhat-vibe-coding
