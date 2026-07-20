@@ -300,3 +300,10 @@ Usuário confirma no FinanChat
 PostgreSQL salva os dados
         ↓
 Painel financeiro é atualizado
+
+
+## 📱 Telas do FinanChat
+
+As principais telas do projeto estão reunidas no arquivo abaixo:
+
+[📄 Visualizar telas do FinanChat](./Imagens_FinanChat.pdf)
