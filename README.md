@@ -306,4 +306,4 @@ Painel financeiro é atualizado
 
 As principais telas do projeto estão reunidas no arquivo abaixo:
 
-[📄 Visualizar telas do FinanChat](./Imagens_FinanChat.pdf)
+[📄 Visualizar telas do FinanChat](./Imagens_Financhat.md)
